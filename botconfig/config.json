@@ -1,0 +1,51 @@
+{
+   "token": "OTU5MDA5MjY2MTA5NDAzMTQ3.YkVo-g.i1yGcw8Cs5yOepb7HRxu4fQi_Ac",
+   "prefix": "#",
+   "ownerIDS": [
+      "614856625173430294",
+      "958604090194145282",
+      "713687486748033084",
+      "810853088176111637"
+   ],
+   "fnbr": "GET from: https://fnbr.co",
+   "fortnitetracker": "GET from: https://fortnitetracker.com",
+   "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+   "status": {
+      "text": "{prefix}help | On {guildcount} Servers .",
+      "text2": "By: discord.gg/dcdev",
+      "type": "PLAYING",
+      "url": ""
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "TheEmirSeV"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "GET from: https://developers.spotify.com",
+      "clientID": "GET from: https://developers.spotify.com"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}
